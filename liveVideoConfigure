@@ -307,26 +307,26 @@
 		]
 	}],
 	"teacherTrain": [{
-		"editnName": "师资培训",
+		"editName": "师资培训",
 		"editData": [{
 				"name": "乐高双师课",
-				"link": "video/sourse/pdf_01.pdf",
-				"img": "video/img/200100001/1018/10.png"
+				"link": "https://wxsource.changingstudy.com/teachertrain_pdf_01.pdf",
+				"poster": "https://wxsource.changingstudy.com/teachertrain_poster_1.png"
 			},
 			{
 				"name": "机械世界-重力小车",
-				"link": "video/sourse/video_02.mp4",
-				"img": "video/img/200100001/1018/2.png"
+				"link": "https://wxsource.changingstudy.com/teachertrain_video_02.mp4",
+				"poster": "https://wxsource.changingstudy.com/teachertrain_poster_2.png"
 			},
 			{
 				"name": "智能世界-鳄鱼",
-				"link": "video/sourse/video_03.mp4",
-				"img": "video/img/200100001/1018/3.png"
+				"link": "https://wxsource.changingstudy.com/teachertrain_video_03.mp4",
+				"poster": "https://wxsource.changingstudy.com/teachertrain_poster_3.png"
 			},
 			{
 				"name": "重力小车备课模板",
-				"link": "video/sourse/pdf_04.pdf",
-				"img": "video/img/200100001/1018/4.png"
+				"link": "https://wxsource.changingstudy.com/teachertrain_pdf_04.pdf",
+				"poster": "https://wxsource.changingstudy.com/teachertrain_poster_4.png"
 			}
 		]
 	}]
