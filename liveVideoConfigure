@@ -1,6 +1,7 @@
 {
 	"liveCourseData": [{
-		"editnName": "大海老师版",
+		"editName": "大海老师版",
+		"editId":"dahai",
 		"editData": [{
 				"packageId": "100100001",
 				"packageName": "机械世界",
