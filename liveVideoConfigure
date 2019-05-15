@@ -1,403 +1,480 @@
 {
-	"liveCourseData": [{
-		"editName": "大海老师版",
-		"editId":"dahai",
-		"editData": [{
-				"packageId": "100100001",
-				"packageName": "机械世界",
-				"packageData": [{
-						"courseId": "2012",
-						"courseName": "收复失地",
-						"courseImg": "https://wxsource.changingstudy.com/2012.jpg",
-						"kpointData": [{
-								"name": "第1课:《修理城门》",
-								"link": "https://v.qq.com/x/page/k0681e8vglw.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10010000120121.png"
-							},
-							{
-								"name": "第2课:《布置疑兵》",
-								"link": "https://v.qq.com/x/page/o06815xrkza.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10010000120122.png"
-							},
-							{
-								"name": "第3课:《稳固桥梁》",
-								"link": "https://v.qq.com/x/page/m06812fzfte.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10010000120123.png"
-							},
-							{
-								"name": "第4课:《省力路障》",
-								"link": "https://v.qq.com/x/page/t06811rd7fy.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10010000120124.png"
-							},
-							{
-								"name": "第5课:《神奇座驾》",
-								"link": "https://v.qq.com/x/page/t0681xkzafv.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10010000120125.png"
-							},
-							{
-								"name": "第6课:《运送物资》",
-								"link": "https://v.qq.com/x/page/y0681wfhdyh.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10010000120126.png"
-							},
-							{
-								"name": "第7课:《研发武器》",
-								"link": "https://v.qq.com/x/page/l07062alaa7.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10010000120127.png"
-							},
-							{
-								"name": "第9课:《运输士兵》",
-								"link": "https://v.qq.com/x/page/c0706gpqeu3.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10010000120129.png"
-							},
-							{
-								"name": "第11课:《击破城门》",
-								"link": "https://v.qq.com/x/page/g0798shky4t.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo100100001201211.png"
-							},
-							{
-								"name": "第12课:《开启宝藏》",
-								"link": "https://v.qq.com/x/page/g0798shky4t.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo100100001201212.png"
-							}
-						]
-					},
-					{
-						"courseId": "2019",
-						"courseName": "科学怪人",
-						"courseImg": "https://wxsource.changingstudy.com/2019.jpg",
-						"kpointData": [{
-								"name": "第2课:《回忆的记录》",
-								"link": "https://v.qq.com/x/page/p07885bk8ae.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10010000120192.png"
-							},
-							{
-								"name": "第5课:《降热装置》",
-								"link": "https://v.qq.com/x/page/b0788o2dyms.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10010000120195.png"
-							},
-							{
-								"name": "第6课:《修理工具》",
-								"link": "https://v.qq.com/x/page/i0788lz34ke.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10010000120196.png"
-							},
-							{
-								"name": "第7课:《利用弹性》",
-								"link": "https://v.qq.com/x/page/b0788n31vv5.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10010000120197.png"
-							},
-							{
-								"name": "第8课:《利用重力》",
-								"link": "https://v.qq.com/x/page/f0788u383m7.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10010000120198.png"
-							},
-							{
-								"name": "第9课:《利用电能》",
-								"link": "https://v.qq.com/x/page/p07884wpcc6.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10010000120199.png"
-							},
-							{
-								"name": "第10课:《修复岔道》",
-								"link": "https://v.qq.com/x/page/j0788nrjgev.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo100100001201910.png"
-							},
-							{
-								"name": "第11课:《停车的麻烦》",
-								"link": "https://v.qq.com/x/page/g0788drblf6.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo100100001201911.png"
-							}
-						]
-					},
-					{
-						"courseId": "2020",
-						"courseName": "荒岛生存",
-						"courseImg": "https://wxsource.changingstudy.com/2020.jpg",
-						"kpointData": [{
-								"name": "第7课:《野兽袭击》",
-								"link": "https://v.qq.com/x/page/q08072wn8xr.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10010000120207.png"
-							},
-							{
-								"name": "第8课:《砸椰子》",
-								"link": "https://v.qq.com/x/page/z081014mwnc.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10010000120208.png"
-							},
-							{
-								"name": "第9课:《美味的食材》",
-								"link": "https://v.qq.com/x/page/f08146cktkl.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10010000120209.png"
-							},
-							{
-								"name": "第10课:《生存的日常》",
-								"link": "https://v.qq.com/x/page/z0818iazq2r.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo100100001202010.png"
-							},
-							{
-								"name": "第11课:《清理出空地》",
-								"link": "https://v.qq.com/x/page/u0822qyrkcl.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo100100001202011.png"
-							},
-							{
-								"name": "第12课:《希望到来》",
-								"link": "https://v.qq.com/x/page/j0824t4ugge.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo100100001202012.png"
-							}
-						]
-					},
-					{
-						"courseId": "2021",
-						"courseName": "疯狂游乐园",
-						"courseImg": "https://wxsource.changingstudy.com/2021.jpg",
-						"kpointData": [{
-								"name": "第1课:《醒目的招牌》",
-								"link": "https://v.qq.com/x/page/t0827oozpan.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10010000120211.png"
-							},
-							{
-								"name": "第2课:《有秩序的进出》",
-								"link": "https://v.qq.com/x/page/u083011cv3n.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10010000120212.png"
-							},
-							{
-                						"name": "第3课:《方便的游览》",
-                						"link": "https://v.qq.com/x/page/t0832epcj7x.html",
-                						"poster": "https://wxsource.changingstudy.com/liveVideo10010000120213.png"
-            						},
-							{
-                						"name": "第4课:《有趣的滑梯》",
-                						"link": "https://v.qq.com/x/page/y0845758d6i.html",
-                						"poster": "https://wxsource.changingstudy.com/liveVideo10010000120214.png"
-            						},
-							{
-                						"name": "第5课:《转起来吧》",
-                						"link": "https://v.qq.com/x/page/w084746dcvq.html",
-                						"poster": "https://wxsource.changingstudy.com/liveVideo10010000120215.png"
-            						},
-							{
-                						"name": "第6课:《海盗船》",
-                						"link": "https://v.qq.com/x/page/i0850g1um1t.html",
-                						"poster": "https://wxsource.changingstudy.com/liveVideo10010000120216.png"
-            						},
-							{
-                						"name": "第7课:《飓风飞椅》",
-                						"link": "https://v.qq.com/x/page/c08545xwev3.html",
-                						"poster": "https://wxsource.changingstudy.com/liveVideo10010000120217.png"
-            						},
-							{
-                						"name": "第8课:《急速下降》",
-                						"link": "https://v.qq.com/x/page/q085648tvjs.html",
-                						"poster": "https://wxsource.changingstudy.com/liveVideo10010000120218.png"
-            						},
-							{
-                						"name": "第9课:《天旋地转》",
-                						"link": "https://v.qq.com/x/page/i0862vxsl4l.html",
-                						"poster": "https://wxsource.changingstudy.com/liveVideo10010000120219.png"
-            						}
-						]
-					}
-				]
-			},
-			{
-				"packageId": "100200001",
-				"packageName": "智能世界",
-				"packageData": [{
-						"courseId": "2008",
-						"courseName": "智能生物",
-						"courseImg": "https://wxsource.changingstudy.com/2008.jpg",
-						"kpointData": [{
-								"name": "第1课:《灵活的鸭子》",
-								"link": "https://v.qq.com/x/page/b0681bc9glh.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10020000120081.png"
-							},
-							{
-								"name": "第2课:《鳄鱼的陷阱》",
-								"link": "https://v.qq.com/x/page/s06811yeaco.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10020000120082.png"
-							},
-							{
-								"name": "第3课:《庄稼保护神》",
-								"link": "https://v.qq.com/x/page/a068134s95q.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10020000120083.png"
-							},
-							{
-								"name": "第4课:《跳跃的滩涂鱼》",
-								"link": "https://v.qq.com/x/page/x0681j8x7yj.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10020000120084.png"
-							},
-							{
-								"name": "第5课:《羊领袖回归》",
-								"link": "https://v.qq.com/x/page/s0681ymktpa.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10020000120085.png"
-							},
-							{
-								"name": "第6课:《哺育幼鸟》",
-								"link": "https://v.qq.com/x/page/w0706es0bzb.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10020000120086.png"
-							},
-							{
-								"name": "第7课:《壮观的象群》",
-								"link": "https://v.qq.com/x/page/m0706nv1p5n.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10020000120087.png"
-							},
-							{
-								"name": "第10课:《热情的金刚》",
-								"link": "https://v.qq.com/x/page/e08046nx4do.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo100200001200810.png"
-							},
-							{
-								"name": "第11课:《野性的呼唤》",
-								"link": "https://v.qq.com/x/page/d0804iv1v3m.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo100200001200811.png"
-							}
-						]
-					},
-					{
-						"courseId": "2022",
-						"courseName": "海洋之心",
-						"courseImg": "https://wxsource.changingstudy.com/2022.jpg",
-						"kpointData": [{
-								"name": "第2课:《向着大海深处》",
-								"link": "https://v.qq.com/x/page/p0746rhkkbu.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10020000120222.png"
-							},
-							{
-								"name": "第3课:《欢送的海豚》",
-								"link": "https://v.qq.com/x/page/z0746pk3lyy.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10020000120223.png"
-							},
-							{
-								"name": "第7课:《把铁栏放下去》",
-								"link": "https://v.qq.com/x/page/d0804pnrs5n.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10020000120227.png"
-							},
-							{
-								"name": "第8课:《切割逃生》",
-								"link": "https://v.qq.com/x/page/g0804gnrs6q.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10020000120228.png"
-							},
-							{
-								"name": "第10课:《来自队友的帮助》",
-								"link": "https://v.qq.com/x/page/z0804ad5lt1.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo100200001202210.png"
-							},
-							{
-								"name": "第11课:《挪动巨石》",
-								"link": "https://v.qq.com/x/page/j0804wfaaip.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo100200001202211.png"
-							}
-						]
-					},
-					{
-						"courseId": "2023",
-						"courseName": "超级特工队",
-						"courseImg": "https://wxsource.changingstudy.com/2023.jpg",
-						"kpointData": [{
-							"name": "第1课:《蛮力的费奇》",
-							"link": "https://v.qq.com/x/page/z08289lfgh4.html",
-							"poster": "https://wxsource.changingstudy.com/liveVideo10020000120231.png"
-						},
-						{
-                					 "name": "第2课:《小偷哈维》",
-                					 "link": "https://v.qq.com/x/page/f0832femxns.html",
-                					 "poster": "https://wxsource.changingstudy.com/liveVideo10020000120232.png"
-            					},
-						{
-                					 "name": "第3课:《机械大师艾伦》",
-                					 "link": "https://v.qq.com/x/page/m08432ca3y7.html",
-                					 "poster": "https://wxsource.changingstudy.com/liveVideo10020000120233.png"
-            					},
-						{
-                					 "name": "第4课:《电脑达人乔伊斯》",
-                					 "link": "https://v.qq.com/x/page/e0849z5c5mk.html",
-                					 "poster": "https://wxsource.changingstudy.com/liveVideo10020000120234.png"
-            					},
-						{
-                					 "name": "第5课:《启航出发》",
-                					 "link": "https://v.qq.com/x/page/e08553g4k3o.html",
-                					 "poster": "https://wxsource.changingstudy.com/liveVideo10020000120235.png"
-            					},
-						{
-                					 "name": "第6课:《沙漠飞驰》",
-                					 "link": "https://v.qq.com/x/page/t0859ihglw6.html",
-                					 "poster": "https://wxsource.changingstudy.com/liveVideo10020000120236.png"
-            					},
-						{
-                					 "name": "第7课:《遭遇陷阱》",
-                					 "link": "https://v.qq.com/x/page/c0862mdeeqg.html",
-                					 "poster": "https://wxsource.changingstudy.com/liveVideo10020000120237.png"
-            					},
-						{
-                					 "name": "第8课:《激战》",
-                					 "link": "https://v.qq.com/x/page/n08623pxdyu.html",
-                					 "poster": "https://wxsource.changingstudy.com/liveVideo10020000120238.png"
-            					}]
-					},
-					{
-						"courseId": "2024",
-						"courseName": "失落的星球",
-						"courseImg": "https://wxsource.changingstudy.com/2024.jpg",
-						"kpointData": [{
-								"name": "第6课:《星球狂奔》",
-								"link": "https://v.qq.com/x/page/z08089xdks6.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10020000120246.png"
-							},
-							{
-								"name": "第7课:《神秘的山洞》",
-								"link": "https://v.qq.com/x/page/n0808sv40zb.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10020000120247.png"
-							},
-							{
-								"name": "第8课:《坚固的石壁》",
-								"link": "https://v.qq.com/x/page/o0812c2r5cx.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10020000120248.png"
-							},
-							{
-								"name": "第9课:《遗迹守护者》",
-								"link": "https://v.qq.com/x/page/o08159tfu2t.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo10020000120249.png"
-							},
-							{
-								"name": "第10课:《基地建设》",
-								"link": "https://v.qq.com/x/page/k0819tz714l.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo100200001202410.png"
-							},
-							{
-								"name": "第11课:《矿石运输车》",
-								"link": "https://v.qq.com/x/page/c0822vr52oh.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo100200001202411.png"
-							},
-							{
-								"name": "第12课:《机器人助手》",
-								"link": "https://v.qq.com/x/page/k0825nf18ph.html",
-								"poster": "https://wxsource.changingstudy.com/liveVideo100200001202412.png"
-							}
-						]
-					}
-				]
-			}
-		]
-	}],
-	"teacherTrain": [{
-		"editName": "师资培训",
-		"editData": [{
-				"name": "乐高双师课",
-				"link": "https://wxsource.changingstudy.com/teachertrain_pdf_01.pdf",
-				"poster": "https://wxsource.changingstudy.com/teachertrain_poster_1.png"
-			},
-			{
-				"name": "机械世界-重力小车",
-				"link": "https://wxsource.changingstudy.com/teachertrain_video_02.mp4",
-				"poster": "https://wxsource.changingstudy.com/teachertrain_poster_2.png"
-			},
-			{
-				"name": "智能世界-鳄鱼",
-				"link": "https://wxsource.changingstudy.com/teachertrain_video_03.mp4",
-				"poster": "https://wxsource.changingstudy.com/teachertrain_poster_3.png"
-			},
-			{
-				"name": "重力小车备课模板",
-				"link": "https://wxsource.changingstudy.com/teachertrain_pdf_04.pdf",
-				"poster": "https://wxsource.changingstudy.com/teachertrain_poster_4.png"
-			}
-		]
-	}]
+    "liveCourseData": [
+        {
+            "editName": "轻近教育",
+            "editId": "dahai",
+            "editData": [
+                {
+                    "packageId": "100100001",
+                    "packageName": "机械世界",
+                    "packageData": [
+                        {
+                            "courseId": "2019",
+                            "courseName": "科学怪人",
+                            "courseImg": "https://wxsource.changingstudy.com/2019.jpg",
+                            "kpointData": [
+                                {
+                                    "name": "第2课:《工作护目镜》",
+                                    "link": "",
+                                    "poster": "https://wxsource.changingstudy.com/2019_01.png"
+                                },
+                                {
+                                    "name": "第5课:《降热装置》",
+                                    "link": "https://v.qq.com/x/page/b0788o2dyms.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120195.png"
+                                },
+                                {
+                                    "name": "第6课:《修理工具》",
+                                    "link": "https://v.qq.com/x/page/i0788lz34ke.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120196.png"
+                                },
+                                {
+                                    "name": "第7课:《利用弹性》",
+                                    "link": "https://v.qq.com/x/page/b0788n31vv5.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120197.png"
+                                },
+                                {
+                                    "name": "第8课:《利用重力》",
+                                    "link": "https://v.qq.com/x/page/f0788u383m7.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120198.png"
+                                },
+                                {
+                                    "name": "第9课:《利用电能》",
+                                    "link": "https://v.qq.com/x/page/p07884wpcc6.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120199.png"
+                                },
+                                {
+                                    "name": "第10课:《修复岔道》",
+                                    "link": "https://v.qq.com/x/page/j0788nrjgev.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo100100001201910.png"
+                                },
+                                {
+                                    "name": "第11课:《停车的麻烦》",
+                                    "link": "https://v.qq.com/x/page/g0788drblf6.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo100100001201911.png"
+                                }
+                            ]
+                        },
+                        {
+                            "courseId": "2012",
+                            "courseName": "收复失地",
+                            "courseImg": "https://wxsource.changingstudy.com/2012.jpg",
+                            "kpointData": [
+                                {
+                                    "name": "第1课:《修理城门》",
+                                    "link": "https://v.qq.com/x/page/k0681e8vglw.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120121.png"
+                                },
+                                {
+                                    "name": "第2课:《布置疑兵》",
+                                    "link": "https://v.qq.com/x/page/o06815xrkza.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120122.png"
+                                },
+                                {
+                                    "name": "第3课:《稳固桥梁》",
+                                    "link": "https://v.qq.com/x/page/m06812fzfte.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120123.png"
+                                },
+                                {
+                                    "name": "第4课:《省力路障》",
+                                    "link": "https://v.qq.com/x/page/t06811rd7fy.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120124.png"
+                                },
+                                {
+                                    "name": "第5课:《神奇座驾》",
+                                    "link": "https://v.qq.com/x/page/t0681xkzafv.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120125.png"
+                                },
+                                {
+                                    "name": "第6课:《运送物资》",
+                                    "link": "https://v.qq.com/x/page/y0681wfhdyh.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120126.png"
+                                },
+                                {
+                                    "name": "第7课:《研发武器》",
+                                    "link": "https://v.qq.com/x/page/l07062alaa7.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120127.png"
+                                },
+                                {
+                                    "name": "第9课:《运输士兵》",
+                                    "link": "https://v.qq.com/x/page/c0706gpqeu3.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120129.png"
+                                },
+                                {
+                                    "name": "第11课:《击破城门》",
+                                    "link": "https://v.qq.com/x/page/g0798shky4t.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo100100001201211.png"
+                                },
+                                {
+                                    "name": "第12课:《开启宝藏》",
+                                    "link": "https://v.qq.com/x/page/g0798shky4t.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo100100001201212.png"
+                                }
+                            ]
+                        },
+                        {
+                            "courseId": "2020",
+                            "courseName": "荒岛生存",
+                            "courseImg": "https://wxsource.changingstudy.com/2020.jpg",
+                            "kpointData": [
+                                {
+                                    "name": "第7课:《野兽袭击》",
+                                    "link": "https://v.qq.com/x/page/q08072wn8xr.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120207.png"
+                                },
+                                {
+                                    "name": "第8课:《砸椰子》",
+                                    "link": "https://v.qq.com/x/page/z081014mwnc.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120208.png"
+                                },
+                                {
+                                    "name": "第9课:《美味的食材》",
+                                    "link": "https://v.qq.com/x/page/f08146cktkl.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120209.png"
+                                },
+                                {
+                                    "name": "第10课:《生存的日常》",
+                                    "link": "https://v.qq.com/x/page/z0818iazq2r.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo100100001202010.png"
+                                },
+                                {
+                                    "name": "第11课:《清理出空地》",
+                                    "link": "https://v.qq.com/x/page/u0822qyrkcl.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo100100001202011.png"
+                                },
+                                {
+                                    "name": "第12课:《希望到来》",
+                                    "link": "https://v.qq.com/x/page/j0824t4ugge.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo100100001202012.png"
+                                }
+                            ]
+                        },
+                        {
+                            "courseId": "2021",
+                            "courseName": "疯狂游乐园",
+                            "courseImg": "https://wxsource.changingstudy.com/2021.jpg",
+                            "kpointData": [
+                                {
+                                    "name": "第1课:《醒目的招牌》",
+                                    "link": "https://v.qq.com/x/page/t0827oozpan.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120211.png"
+                                },
+                                {
+                                    "name": "第2课:《有秩序的进出》",
+                                    "link": "https://v.qq.com/x/page/u083011cv3n.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120212.png"
+                                },
+                                {
+                                    "name": "第3课:《方便的游览》",
+                                    "link": "https://v.qq.com/x/page/t0832epcj7x.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120213.png"
+                                },
+                                {
+                                    "name": "第4课:《有趣的滑梯》",
+                                    "link": "https://v.qq.com/x/page/y0845758d6i.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120214.png"
+                                },
+                                {
+                                    "name": "第5课:《转起来吧》",
+                                    "link": "https://v.qq.com/x/page/w084746dcvq.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120215.png"
+                                },
+                                {
+                                    "name": "第6课:《海盗船》",
+                                    "link": "https://v.qq.com/x/page/i0850g1um1t.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120216.png"
+                                },
+                                {
+                                    "name": "第7课:《飓风飞椅》",
+                                    "link": "https://v.qq.com/x/page/c08545xwev3.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120217.png"
+                                },
+                                {
+                                    "name": "第8课:《急速下降》",
+                                    "link": "https://v.qq.com/x/page/q085648tvjs.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120218.png"
+                                },
+                                {
+                                    "name": "第9课:《天旋地转》",
+                                    "link": "https://v.qq.com/x/page/i0862vxsl4l.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10010000120219.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "packageId": "100200001",
+                    "packageName": "智能世界",
+                    "packageData": [
+                        {
+                            "courseId": "2022",
+                            "courseName": "海洋之心",
+                            "courseImg": "https://wxsource.changingstudy.com/2022.jpg",
+                            "kpointData": [
+                                {
+                                    "name": "第2课:《制作动力装置》",
+                                    "link": "",
+                                    "poster": "https://wxsource.changingstudy.com/2022_01.png"
+                                },
+                                {
+                                    "name": "第3课:《欢送的海豚》",
+                                    "link": "https://v.qq.com/x/page/z0746pk3lyy.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10020000120223.png"
+                                },
+                                {
+                                    "name": "第7课:《把铁栏放下去》",
+                                    "link": "https://v.qq.com/x/page/d0804pnrs5n.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10020000120227.png"
+                                },
+                                {
+                                    "name": "第8课:《切割逃生》",
+                                    "link": "https://v.qq.com/x/page/g0804gnrs6q.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10020000120228.png"
+                                },
+                                {
+                                    "name": "第10课:《来自队友的帮助》",
+                                    "link": "https://v.qq.com/x/page/z0804ad5lt1.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo100200001202210.png"
+                                },
+                                {
+                                    "name": "第11课:《挪动巨石》",
+                                    "link": "https://v.qq.com/x/page/j0804wfaaip.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo100200001202211.png"
+                                }
+                            ]
+                        },
+                        {
+                            "courseId": "2024",
+                            "courseName": "失落的星球",
+                            "courseImg": "https://wxsource.changingstudy.com/2024.jpg",
+                            "kpointData": [
+                                {
+                                    "name": "第6课:《星球狂奔》",
+                                    "link": "https://v.qq.com/x/page/z08089xdks6.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10020000120246.png"
+                                },
+                                {
+                                    "name": "第7课:《神秘的山洞》",
+                                    "link": "https://v.qq.com/x/page/n0808sv40zb.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10020000120247.png"
+                                },
+                                {
+                                    "name": "第8课:《坚固的石壁》",
+                                    "link": "https://v.qq.com/x/page/o0812c2r5cx.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10020000120248.png"
+                                },
+                                {
+                                    "name": "第9课:《遗迹守护者》",
+                                    "link": "https://v.qq.com/x/page/o08159tfu2t.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10020000120249.png"
+                                },
+                                {
+                                    "name": "第10课:《基地建设》",
+                                    "link": "https://v.qq.com/x/page/k0819tz714l.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo100200001202410.png"
+                                },
+                                {
+                                    "name": "第11课:《矿石运输车》",
+                                    "link": "https://v.qq.com/x/page/c0822vr52oh.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo100200001202411.png"
+                                },
+                                {
+                                    "name": "第12课:《机器人助手》",
+                                    "link": "https://v.qq.com/x/page/k0825nf18ph.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo100200001202412.png"
+                                }
+                            ]
+                        },
+                        {
+                            "courseId": "2008",
+                            "courseName": "智能生物",
+                            "courseImg": "https://wxsource.changingstudy.com/2008.jpg",
+                            "kpointData": [
+                                {
+                                    "name": "第1课:《灵活的鸭子》",
+                                    "link": "https://v.qq.com/x/page/b0681bc9glh.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10020000120081.png"
+                                },
+                                {
+                                    "name": "第2课:《鳄鱼的陷阱》",
+                                    "link": "https://v.qq.com/x/page/s06811yeaco.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10020000120082.png"
+                                },
+                                {
+                                    "name": "第3课:《庄稼保护神》",
+                                    "link": "https://v.qq.com/x/page/a068134s95q.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10020000120083.png"
+                                },
+                                {
+                                    "name": "第4课:《跳跃的滩涂鱼》",
+                                    "link": "https://v.qq.com/x/page/x0681j8x7yj.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10020000120084.png"
+                                },
+                                {
+                                    "name": "第5课:《羊领袖回归》",
+                                    "link": "https://v.qq.com/x/page/s0681ymktpa.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10020000120085.png"
+                                },
+                                {
+                                    "name": "第6课:《哺育幼鸟》",
+                                    "link": "https://v.qq.com/x/page/w0706es0bzb.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10020000120086.png"
+                                },
+                                {
+                                    "name": "第7课:《壮观的象群》",
+                                    "link": "https://v.qq.com/x/page/m0706nv1p5n.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10020000120087.png"
+                                },
+                                {
+                                    "name": "第10课:《热情的金刚》",
+                                    "link": "https://v.qq.com/x/page/e08046nx4do.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo100200001200810.png"
+                                },
+                                {
+                                    "name": "第11课:《野性的呼唤》",
+                                    "link": "https://v.qq.com/x/page/d0804iv1v3m.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo100200001200811.png"
+                                }
+                            ]
+                        },
+                        {
+                            "courseId": "2023",
+                            "courseName": "超级特工队",
+                            "courseImg": "https://wxsource.changingstudy.com/2023.jpg",
+                            "kpointData": [
+                                {
+                                    "name": "第1课:《蛮力的费奇》",
+                                    "link": "https://v.qq.com/x/page/z08289lfgh4.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10020000120231.png"
+                                },
+                                {
+                                    "name": "第2课:《小偷哈维》",
+                                    "link": "https://v.qq.com/x/page/f0832femxns.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10020000120232.png"
+                                },
+                                {
+                                    "name": "第3课:《机械大师艾伦》",
+                                    "link": "https://v.qq.com/x/page/m08432ca3y7.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10020000120233.png"
+                                },
+                                {
+                                    "name": "第4课:《电脑达人乔伊斯》",
+                                    "link": "https://v.qq.com/x/page/e0849z5c5mk.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10020000120234.png"
+                                },
+                                {
+                                    "name": "第5课:《启航出发》",
+                                    "link": "https://v.qq.com/x/page/e08553g4k3o.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10020000120235.png"
+                                },
+                                {
+                                    "name": "第6课:《沙漠飞驰》",
+                                    "link": "https://v.qq.com/x/page/t0859ihglw6.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10020000120236.png"
+                                },
+                                {
+                                    "name": "第7课:《遭遇陷阱》",
+                                    "link": "https://v.qq.com/x/page/c0862mdeeqg.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10020000120237.png"
+                                },
+                                {
+                                    "name": "第8课:《激战》",
+                                    "link": "https://v.qq.com/x/page/n08623pxdyu.html",
+                                    "poster": "https://wxsource.changingstudy.com/liveVideo10020000120238.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "packageId": "100300001",
+                    "packageName": "小小工程师",
+                    "packageData": [
+                        {
+                            "courseId": "2027",
+                            "courseName": "巨人里奥",
+                            "courseImg": "https://wxsource.changingstudy.com/2027.jpg",
+                            "kpointData": [
+                                {
+                                    "name": "第1课:《相框》",
+                                    "link": "",
+                                    "poster": "https://wxsource.changingstudy.com/2027_01.png"
+                                }
+                            ]
+                        },
+                        {
+                            "courseId": "2032",
+                            "courseName": "台风救援",
+                            "courseImg": "https://wxsource.changingstudy.com/2032.jpg",
+                            "kpointData": []
+                        },
+                        {
+                            "courseId": "2033",
+                            "courseName": "动物世界",
+                            "courseImg": "https://wxsource.changingstudy.com/2033.jpg",
+                            "kpointData": []
+                        }
+                    ]
+                },
+                {
+                    "packageId": "100400001",
+                    "packageName": "小小发明家",
+                    "packageData": [
+                        {
+                            "courseId": "2028",
+                            "courseName": "建造世界",
+                            "courseImg": "https://wxsource.changingstudy.com/2028.jpg",
+                            "kpointData": [
+                                {
+                                    "name": "第1课:《小车》",
+                                    "link": "https://v.qq.com/x/page/i0870fi9buy.html",
+                                    "poster": "https://wxsource.changingstudy.com/2028_01.png"
+                                }
+                            ]
+                        },
+                        {
+                            "courseId": "2034",
+                            "courseName": "巨人的新家",
+                            "courseImg": "https://wxsource.changingstudy.com/2034.jpg",
+                            "kpointData": []
+                        },
+                        {
+                            "courseId": "2037",
+                            "courseName": "军事基地",
+                            "courseImg": "https://wxsource.changingstudy.com/2037.jpg",
+                            "kpointData": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "teacherTrain": [
+        {
+            "editName": "师资培训",
+            "editData": [
+                {
+                    "name": "乐高双师课",
+                    "link": "https://wxsource.changingstudy.com/teachertrain_pdf_01.pdf",
+                    "poster": "https://wxsource.changingstudy.com/teachertrain_poster_1.png"
+                },
+                {
+                    "name": "机械世界-重力小车",
+                    "link": "https://wxsource.changingstudy.com/teachertrain_video_02.mp4",
+                    "poster": "https://wxsource.changingstudy.com/teachertrain_poster_2.png"
+                },
+                {
+                    "name": "智能世界-鳄鱼",
+                    "link": "https://wxsource.changingstudy.com/teachertrain_video_03.mp4",
+                    "poster": "https://wxsource.changingstudy.com/teachertrain_poster_3.png"
+                },
+                {
+                    "name": "重力小车备课模板",
+                    "link": "https://wxsource.changingstudy.com/teachertrain_pdf_04.pdf",
+                    "poster": "https://wxsource.changingstudy.com/teachertrain_poster_4.png"
+                }
+            ]
+        }
+    ]
 }
